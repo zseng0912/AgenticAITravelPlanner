@@ -22,6 +22,8 @@ The **Agentic AI Travel Planner** is a backend service built with **FastAPI** th
 
 ## 🔄 Workflow
 
+![Workflow Diagram](./Workflow_Diagram.png)
+
 The system follows a structured, linear **Agentic Workflow** managed by a `StateGraph`:
 
 1.  **🎯 Planner Node**: Analyzes the user's trip request, identifies destinations, and sets initial budget/preference parameters.
