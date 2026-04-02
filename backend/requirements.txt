@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-google-genai
+google-search-results
+python-dotenv
+pydantic
+pydantic-settings
+asyncio
+aiohttp
+pytest
+pytest-asyncio
+httpx
+pytest-mock
